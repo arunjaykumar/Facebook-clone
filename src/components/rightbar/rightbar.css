@@ -1,5 +1,4 @@
 .rightbarContainer {
-  flex: 4;
+  flex: 3.5;
   height: calc(100vh-60px);
-  background-color: brown;
 }
