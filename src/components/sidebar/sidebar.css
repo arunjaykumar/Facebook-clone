@@ -1,9 +1,12 @@
 .sidebarContainer {
   flex: 3;
-  height: calc(100vh-60px);
+  margin-top: 60px;
+  /* height: calc(100% - 60px); */
+  /* overflow-y: scroll; */
 }
 .sidebarWrapper {
   padding: 30px;
+  overflow-y: scroll;
 }
 .sidebarListItem {
   padding: 15px;
