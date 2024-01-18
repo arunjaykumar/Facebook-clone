@@ -74,6 +74,14 @@ function Sidebar() {
           <img src="assets/person/2.jpeg" alt="imme" className="sidebarImg" />
           <span className="sidebarImgName">Arun Rana</span>
         </li>
+        <li className="sidebarFriendItem">
+          <img src="assets/person/2.jpeg" alt="imme" className="sidebarImg" />
+          <span className="sidebarImgName">Arun Rana</span>
+        </li>
+        <li className="sidebarFriendItem">
+          <img src="assets/person/2.jpeg" alt="imme" className="sidebarImg" />
+          <span className="sidebarImgName">Arun Rana</span>
+        </li>
       </div>
     </div>
   );
